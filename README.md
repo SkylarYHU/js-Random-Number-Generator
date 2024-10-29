@@ -4,4 +4,7 @@ A simple web application that simulates rolling three dice and displays the resu
 
 ## Demo
 
-Click (here) to view the demo
+Click [here](https://skylaryhu.github.io/js-Random-Number-Generator/) to view the demo
+
+## Screenshot
+![Roll Dice App Screenshot](Screenshots/screenshot.png)
